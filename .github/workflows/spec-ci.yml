@@ -1,0 +1,10 @@
+name: Spec CI
+on:
+  pull_request:
+  push:
+    branches: ['*']
+jobs:
+  ok:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Spec CI pass-through for docs PR"
