@@ -1,0 +1,10 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "NexusRunner Playbook",
+  "type": "object",
+  "properties": {
+    "apiVersion": { "const": "nexusrunner/v1" },
+    "kind": { "const": "Playbook" }
+  },
+  "required": ["apiVersion","kind"]
+}

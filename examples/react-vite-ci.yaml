@@ -1,0 +1,4 @@
+apiVersion: nexusrunner/v1
+kind: Playbook
+metadata: { name: react-vite-ci, version: 0.1.0 }
+pipeline: { steps: [] }
